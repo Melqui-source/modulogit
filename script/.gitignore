@@ -1,2 +1,4 @@
-*.sql
-*.txt
+backup.sql
+senhas.txt
+backup-bancoDados.txt
+backup-projeto.sql
